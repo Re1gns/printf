@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb18zkbUefxh6MAQSOfV_9X9i2HMUVvUloLQ&usqp=CAU)
+
 # Write your own printf function.
 
 ### Authorized functions and macros
@@ -20,8 +20,8 @@
 
 
 
-Authors: [Nwabueze Franklin](https://github.com/NwabuezeFranklin) 
-         [Ifeoluwa Atansieye](https://github.com/Asiwajuife)
+Authors: [Victor Ayodeji Olatunde ](https://github.com/Re1gns) 
+         [Robiat Adeshewa ](https://github.com/Crownbeauty01)
 
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvSbZ7AEEr4Eh5jpKLM-zU-aicSUNaeXR-Q&usqp=CAU)
+
